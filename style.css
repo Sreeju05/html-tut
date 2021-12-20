@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+h1 {
+    align-content: center;
+    padding: 40px;
+    color: rgb(3, 13, 26);
+}
